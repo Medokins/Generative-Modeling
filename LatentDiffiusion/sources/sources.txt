@@ -1,6 +1,0 @@
-https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
-
-Embedings: https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/
-
-SelfAttention, DoubleConv, Up, Down moddules from here: https://github.com/dome272/Diffusion-Models-pytorch
-math: https://www.youtube.com/watch?v=HoKDTa5jHvg&t=1338s
